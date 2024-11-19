@@ -41,3 +41,10 @@
 ### **Conclusion:**
 
 The **Aggressive Recruitment Strategy** is the most successful approach, achieving a **73% hiring rate**. However, other areas, such as improving interview scores and refining strategies for younger and mid-career candidates, can further enhance recruitment outcomes.
+
+
+
+---
+
+### **Dataset from Kaggle:**
+**Link:**https://www.kaggle.com/datasets/rabieelkharoua/predicting-hiring-decisions-in-recruitment-data
