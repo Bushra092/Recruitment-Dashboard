@@ -47,4 +47,4 @@ The **Aggressive Recruitment Strategy** is the most successful approach, achievi
 ---
 
 ### **Dataset from Kaggle:**
-**Link:**https://www.kaggle.com/datasets/rabieelkharoua/predicting-hiring-decisions-in-recruitment-data
+**Link:** https://www.kaggle.com/datasets/rabieelkharoua/predicting-hiring-decisions-in-recruitment-data
